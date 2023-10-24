@@ -1,0 +1,2 @@
+# mingiRepo
+On vaja repot
