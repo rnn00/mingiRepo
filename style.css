@@ -1,0 +1,56 @@
+body {
+    background-image: url("winxp.webp");
+    color: rebeccapurple;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size:larger;
+  }
+
+h1 {
+    background-color: rgb(179, 179, 179);
+    color: purple;
+    font-family:'Courier New', Courier, monospace;
+    font-size:x-large;
+}
+
+img {
+    border: 5px solid #ff0000;
+    border-radius: 25% 10%;
+}
+
+table {
+    border: 3px solid;
+    width: 100%;
+    font-weight:bold;
+}
+
+
+
+/*
+background-color - kasutatakse elemendi tausta värvi seadmiseks
+background-image - kasutatakse elemendi tausta pildi määramiseks
+color - kasutatakse teksti värvi määramiseks
+align - kasutatakse teksti joondamisel
+float - kasutatakse sisu positsioneerimiseks ja vormindamiseks, nt. pilt hõljub konteineris oleva teksti juures
+padding - kasutatakse ruumi genereerimiseks elemendi sisu ümber, määratletud piirjoone sees
+border - võimaldab määrata elemendi piirjoone stiili, laiuse ja värvi
+margin - kasutatakse ruumi loomiseks elementide ümber, väljaspool mis tahes määratletud piirjoont
+font
+font-family - määrab konkreetse fondipere (nt "Times New Roman" või "Arial")
+font-size - määrab teksti suuruse
+height - kasutatakse elemendi kõrguse seadmiseks
+width - kasutatakse elemendi laiuse seadmiseks
+list-style-type - määrab loendi üksuse markeri tüübi (loendi punkti välimus)
+opacity - täpsustab elemendi läbipaistmatuse / läbipaistvuse
+shadow - elemendi varju lisamine
+border-radius - määrab elemendi nurkade kõveruse/ümaruse
+linear-gradient - kasutatakse sujuvate üleminekute kujutamisel kahe või enama määratletud värvi vahel
+display - määratleb elemendi kuvamise käitumise.
+lingi välimust teatud olukordades saab muuta selliste tagide välimust muutes:
+a:link - tavaline, nägemata e mitte veel külastatud link
+a:visited - link, mida kasutaja on külastanud
+a:hover - link, mis reageerib kui kasutaja hiirega üle selle liigub
+a:active - link klõpsamise hetkel
+suurusi saab määratleda näiteks:
+px - kindel arv piksleid
+% - x protsenti vanemelemendi (parenti) vastavast suurusest (pikkus/laius)
+*/
